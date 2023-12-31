@@ -1,0 +1,12 @@
+						PatientJourneyTracer
+							SOP 
+
+1. Run the "Pre-processing Step.py" and follow the prompts in the code.
+2. Rename the output "<inputfilename>_proc.csv" to "Lines.csv".
+3. Run the "PatientJourneyTracer.py" script while having "VisualTreeRosettaCodeDotOrg.py" and "Lines.csv" in the same directory.
+4. Open the outputfile "Journey.txt" to find the visualized tree of patient lines.
+
+Note1: The input .csv file must have column names like "Line1", "Line2", "Total", etc. down to capitalization and lengths.
+Note2: If any 'codec error's are prompted while running "PatientJourneyTracer.py", rerun the code in a fresh new python session/console.
+Note3: An intermediate "JourneyTree.py" is created and used by the above program which doesn't need to be altered by the user.
+Note3: Always use a new session for output file generation. Don't rerun or run with a different input file in an old session.

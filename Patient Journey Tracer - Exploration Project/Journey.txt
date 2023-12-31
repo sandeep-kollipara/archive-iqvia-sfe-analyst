@@ -1,0 +1,35 @@
+                                    ┌────── DESCOVY+EDURANT+TIVICAY(n=1) 
+                                    │
+                                    ├──────────── DESCOVY+PREZCOBIX(n=2) 
+                                    │
+                                    ├───────────────────── BIKTARVY(n=3) 
+                                    │
+                                    │                                    ┌──────────────────── TIVICAY(n=1) 
+                                    ├────────────── DESCOVY+TIVICAY(n=2) ┤
+                                    │                                    └──────────────────── EDURANT(n=1) ─ EDURANT+TIVICAY(n=1) 
+                                    │
+                                    ├────────────────────── ODEFSEY(n=1) 
+                                    │
+                                    │                                    ┌────────────────── ISENTRESS(n=1) 
+                                    ├───────────────────── DESCOVY(n=11) ┤
+                                    │                                    └ DESCOVY+ISENTRESS+PREZCOBIX(n=1) 
+                                    │
+                                    ├── DESCOVY+ISENTRESS+PREZCOBIX(n=2) ─── EDURANT+PREZCOBIX+TIVICAY(n=1) 
+ (n=174) ─ DESCOVY+ISENTRESS(n=174) ┤
+                                    ├──── DESCOVY+PREZCOBIX+TIVICAY(n=1) 
+                                    │
+                                    ├──────────── ISENTRESS+ODEFSEY(n=1) ───────────────────── ODEFSEY(n=1) 
+                                    │
+                                    ├────────────────────── GENVOYA(n=3) 
+                                    │
+                                    ├─────────────────────── JULUCA(n=1) 
+                                    │
+                                    ├──────────── ISENTRESS+TRUVADA(n=2) ────────────────────── JULUCA(n=1) 
+                                    │
+                                    ├────────────────────── TRIUMEQ(n=2) 
+                                    │
+                                    ├────────────── ODEFSEY+TIVICAY(n=1) ───────────────────── TIVICAY(n=1) 
+                                    │
+                                    ├──────────────────── ISENTRESS(n=4) ───────────────────── DESCOVY(n=1) 
+                                    │
+                                    └ ISENTRESS+LAMIVUDINE+PIFELTRO(n=1) ─── ISENTRESS+PIFELTRO+ZIAGEN(n=1) 
