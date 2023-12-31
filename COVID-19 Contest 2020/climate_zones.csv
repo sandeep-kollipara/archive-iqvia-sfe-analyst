@@ -1,0 +1,136 @@
+Country,Satisfies,Assigned
+Afghanistan,III,II
+Kampuchea,IV,IV
+Algeria,IIIII,II
+Kazakstan,III,II
+Angola,IIIV,II
+Kenya,IIIV,IV
+Argentina,II,II
+Kirghizia,III,II
+Armenia,III,II
+Korea,III,II
+Australia,IIIIIIIV,II
+Kuwait,IV,IV
+Azerbaijan,III,II
+Laos,IV,IV
+Bahrain,IV,IV
+Lebannon,II,II
+Bangladesh,IV,IV
+Liberia,IV,IV
+Barbados,IV,IV
+Libya,IIIII,II
+Belize,IV,IV
+Madagascar,IIIV,IV
+Benin,IV,IV
+Malawi,IIIV,IV
+Bolivia,IIIIV,II
+Malaysia,IIIV,IV
+Botswana,III,III
+Maldive Islands,IV,IV
+Brazil,IIIV,IV
+Mali,IIIIV,IV
+Bulgaria,III,II
+Marshall Islands,IV,IV
+Burkina Faso,IV,IV
+Mauretania,IV,IV
+Burundi,IV,IV
+Mexico,IIIV,II
+Cameroon,IV,IV
+Morocco,IIIII,II
+Canada,I,I
+Mozambique,IV,IV
+Canary Islands,II,II
+Myanmar (Burma),IV,IV
+Central African Republic,IV,IV
+Namibia,II,II
+Chad,IIIIV,III
+Nepal,II,II
+Chile,III,II
+New Caledonia,IIIV,IV
+China,IIIIV,II
+New Zealand,III,II
+Columbia,IV,IV
+Nicaragua,IV,IV
+Congo,IIIV,IV
+Niger,IIIIV,IV
+Costa,IV,IV
+Nigeria,IV,IV
+Cuba,IV,IV
+Oman,IV,IV
+Dominican Republic,IV,IV
+Pakistan,IIIIV,IV
+Dutch Antilles,IV,IV
+Panama,IV,IV
+Ecuador,IIIIII,IV
+Papua-New Guinea,IV,IV
+Egypt,IIIII,II
+Paraguay,IV,IV
+El Salvador,IV,IV
+Peru,III,II
+Ethiopia,IIIV,IV
+Philippines,IV,IV
+Fiji,IV,IV
+Portugal,III,II
+France,III,II
+Puerto Rico,IV,IV
+Gabon,IV,IV
+Qatar,IV,IV
+Gambia,IV,IV
+Remaining Eastern,I,I
+Georgia,III,II
+Germany,I,I
+Remaining Northern,I,I
+Ghana,IV,IV
+Greece,IIIV,II
+Guatemala,IV,IV
+Remaining Southern,II,II
+Guyana,IV,IV
+Guinca,IV,IV
+Rumania,I,I
+Haiti,IV,IV
+Russia,I,I
+Honduras,IIIV,IV
+Rwanda,II,II
+Hong Kong,IV,IV
+Samoa,IV,IV
+India,IIIIV,IV
+Saudi Arabia,IIIIIIV,IV
+Indonesia,IV,IV
+Senegal,IV,IV
+Iran,IIIIV,II
+Sierra Leone,IV,IV
+Iraq,IIIIIIV,III
+Singapore,IV,IV
+Israel,IIIII,II
+Society Islands,IV,IV
+Italy,III,II
+Somalia,IV,IV
+Ivory Coast,IV,IV
+South Africa,II,II
+Jamaica,IV,IV
+Spain,III,II
+Japan,III(IV),II
+Sri Lanka,IV,IV
+Jordan,IIIII,III
+Sudan,IIIIV,IV
+Syria,II,II
+Tadzhikistan,III,II
+Taiwan,IV,IV
+Tanzania,IIIV,IV
+Thailand,IV,IV
+Togo,IV,IV
+Tonga,IIIV,IV
+Tunisia,II,II
+Turkey,III,II
+Turkmenia,III,II
+Uganda,IV,IV
+United Arab Emirates,IV,IV
+Uruguay,II,II
+United States,IIIIIIIV,II
+Uzbekistan,III,II
+Venezuela,IIIV,IV
+Vietnam,IV,IV
+Yemen,IIIV,IV
+Zaire,IIIV,IV
+Zambia,II,II
+Zimbabwe,II,II
