@@ -1,0 +1,11 @@
+In Progress:
+TC Automation - Germany OnShore
+PST Overview Tool
+
+Completed:
+Extrapolation SPT Python
+New Product Tool
+LVS & Input Trackers Auto
+Pfizer Eliquis SOB Grouping & PPT Generation
+Pfizer Enbrel - Final Changes + Xeljanz 5mg/10mg Split Rollup
+Patient Journey Tracer

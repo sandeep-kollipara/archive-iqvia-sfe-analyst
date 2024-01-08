@@ -1,0 +1,17 @@
+In Progress:
+Astellas Warning Dashboard - Process Improvement
+Astellas pharmacy projection - Python
+Wholesaler's dataloading Python - Incytes targeting, not finished
+
+Completed in 2020:
+TC (Conc curve) Automation - Germany OnShore
+TBP Automation Python - Internship program and Boruta upgrades
+Pfizer Eliquis - SOB Grouping automated & PPT generation template
+Pfizer Enbrel/Biologics - Manual changes automated + Xeljanz 5mg/10mg split rollup Python
+Patient Journey Tracer - External project from Vijay's AA team
+
+Completed in 2019:
+PST Overview Tool
+New Product Tool
+LVS & Input Trackers Auto
+Extrapolation SPT Python
